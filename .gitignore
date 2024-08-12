@@ -1,0 +1,11 @@
+node_modules
+.cache/
+
+build/duktape
+aos/process/libs
+
+**/*.so
+**/process.js
+**/process.wasm
+**/package-lock.json
+**/yarn.lock
